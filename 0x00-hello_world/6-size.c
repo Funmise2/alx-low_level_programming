@@ -6,7 +6,8 @@
  *
  *   *
  *
- *    *Return:zero if no error, Non-zero value  if errors.
+ *    *Return: Always 0 (Success)
+ *
  *
  */
 int main(void)
