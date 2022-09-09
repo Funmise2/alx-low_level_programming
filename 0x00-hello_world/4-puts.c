@@ -1,7 +1,6 @@
 #include <stdio.h>
 /* This is a comment section */
-int main(void)
-{
+int main(){
 
 		puts("\"Programming is like building a multilingual puzzle");
 
