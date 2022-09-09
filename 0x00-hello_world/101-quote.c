@@ -1,7 +1,6 @@
 #include <unistd.h>
 
 /**
- *
  *  main-program entry point.
  *
  *
