@@ -1,12 +1,10 @@
 #include <stdio.h>
-
 /**
- *
- *  *main -is the entry point for the program.
- *
+ *  main -is the entry point for the program.
  *
  *
- *    *Return: Always 0 (Success)
+ *
+ *  Return: Always 0 (Success)
  *
  *
  */
