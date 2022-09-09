@@ -2,7 +2,7 @@
 
 /* This is a comment section */
 
-int main(0)
+int main(void)
 
 {
 
