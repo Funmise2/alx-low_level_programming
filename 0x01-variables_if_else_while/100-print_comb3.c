@@ -22,6 +22,7 @@ int d = 48, a = 48;
 				putchar(a);
 				if (!(d == 56 && a == 57))
 					{
+					putchar(',');
 					putchar(' ');
 					}
 				}
