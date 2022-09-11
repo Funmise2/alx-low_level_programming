@@ -8,9 +8,9 @@
  *
  *     The two numbers should be separated by a space.
  *
- *      All numbers should be printed with two digits. 1 should be printed as 01.
+ *  All numbers should be printed with two digits. 1 should be printed as 01.
  *
- *       Combination of numbers must be separated by a comma followed by a space.
+ *  Combination of numbers must be separated by a comma followed by a space.
  *
  *       Combinations of numbers should be printed in ascending order.
  *
