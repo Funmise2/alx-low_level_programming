@@ -10,13 +10,13 @@
  */
 int main(void)
 {
-char C = "_putchar";
-while (C)
+char *C = "_putchar";
+while (*C)
 {
-putchar(C);
+_putchar(*C);
 C++;
 }
-putchar('\n');
+_putchar('\n');
 return (0);
 }
 
