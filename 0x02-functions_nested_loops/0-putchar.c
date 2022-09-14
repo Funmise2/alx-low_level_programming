@@ -6,11 +6,11 @@
  *
  *
  *
- *   Description: prints _putchar using putchar prototype
+ *   prints _putchar using putchar prototype
  *
  *
  *
- *     Return: Always 0 (Success)
+ *   Return: Always 0 (Success)
  */
 
 int main(void)
