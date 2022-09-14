@@ -1,7 +1,6 @@
 #include "main.h"
-#include "string.h"
 /**
- * Description: print_alphabet using putchar prototype
+ * Description: print_alphabet in lowercase from a to z
  */
 void print_alphabet(void)
 {
