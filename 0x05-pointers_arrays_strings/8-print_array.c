@@ -17,5 +17,5 @@ printf("%d, ", a[i]);
 else
 printf("%d", a[i]);
 }
-putchar(10);
+printf("\n");
 }
