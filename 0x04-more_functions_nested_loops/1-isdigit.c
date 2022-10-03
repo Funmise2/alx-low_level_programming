@@ -2,12 +2,10 @@
 #include <stdio.h>
 
 /**
- * _isdigit - function to check 0-9
- * @c: checks input of function
- * Return : returns 1 if 'c' is digit
- * otherwise always 0 (Success)
+ *  _isdigit -  checks for checks for a digit (0 through 9).
+ *  @c: c -  Variable
+ *  Return: Always 0.
  */
-
 int _isdigit(int c)
 {
 if (c >= 48 && c <= 57)
