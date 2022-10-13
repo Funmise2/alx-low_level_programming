@@ -14,7 +14,7 @@ char o;
 int (*func)(int, int);
 if (argc != 4)
 {
-print("Error\n");
+printf("Error\n");
 exit(98);
 }
 arg1 = atoi(argv[1]);
